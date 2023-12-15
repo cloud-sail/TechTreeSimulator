@@ -13,13 +13,11 @@ namespace model
 	{
 	private:
 		shared_ptr<Graph> graph_;
-		string user_input_;
 
 	public:
 		World();
 
 		shared_ptr<Graph> getGraph() { return graph_; }
-		string getUserInput() { return user_input_; }
 	};
 }
 }
