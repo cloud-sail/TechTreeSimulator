@@ -1,0 +1,41 @@
+Pottery Agriculture
+AnimalHusbandry Agriculture
+Archery Agriculture
+Mining Agriculture
+Sailing Pottery
+Calendar Pottery
+Writing Pottery
+Trapping AnimalHusbandry
+TheWheel AnimalHusbandry
+Mathematics Archery
+Masonry Mining
+BronzeWorking Mining
+Optics Sailing
+Theology Calendar
+Philosophy Writing
+CivilService Trapping
+HorsebackRiding TheWheel
+Mathematics TheWheel
+Construction Masonry
+IronWorking BronzeWorking
+Compass Optics
+Theology Philosophy
+CivilService Philosophy
+Chivalry HorsebackRiding
+Currency Mathematics
+Engineering Mathematics
+Engineering Construction
+MetalCasting IronWorking
+Compass
+Education Theology
+Chivalry CivilService
+Chivalry Currency
+Machinery Engineering
+Physics Engineering
+Physics MetalCasting
+Steel MetalCasting
+Education
+Chivalry
+Machinery
+Physics
+Steel
